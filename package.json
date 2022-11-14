@@ -1,0 +1,27 @@
+{
+  "name": "goit-js-hw-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lysak-Anna/goit-js-hw-10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lysak-Anna/goit-js-hw-10/issues"
+  },
+  "homepage": "https://github.com/Lysak-Anna/goit-js-hw-10#readme",
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8"
+  }
+}
