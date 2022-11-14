@@ -18,3 +18,17 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+ul {
+  list-style: none;
+  
+}
+li {
+  display: flex;
+}
+
+p {
+  margin-left: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+}

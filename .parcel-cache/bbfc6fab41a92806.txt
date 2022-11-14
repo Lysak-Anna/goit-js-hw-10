@@ -25,7 +25,7 @@
 81E:\github projects\goit-js-hw-10\node_modules\@parcel\transformer-babel\README.md133128521852119709 0
 71E:\github projects\goit-js-hw-10\node_modules\@parcel\packager-html\lib133128521852782409 1
 87E:\github projects\goit-js-hw-10\node_modules\@parcel\core\src\requests\AssetRequest.js133128521865318586 0
-37E:\github projects\goit-js-hw-10\dist133128618049110600 1
+37E:\github projects\goit-js-hw-10\dist133129177725085335 1
 121E:\github projects\goit-js-hw-10\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133128521861779911 0
 75E:\github projects\goit-js-hw-10\node_modules\msgpackr-extract\package.json133128521834146154 0
 93E:\github projects\goit-js-hw-10\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133128521858962890 0
@@ -72,7 +72,7 @@
 66E:\github projects\goit-js-hw-10\node_modules\escape-string-regexp133128521830141919 1
 78E:\github projects\goit-js-hw-10\node_modules\@mischnic\json-sourcemap\LICENSE133128521827304598 0
 79E:\github projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\av1.js133128521851461477 0
-54E:\github projects\goit-js-hw-10\src\fetchCountries.js133128618030662112 0
+54E:\github projects\goit-js-hw-10\src\fetchCountries.js133129176368366090 0
 67E:\github projects\goit-js-hw-10\node_modules\terser\bin\terser.mjs133128521855669699 0
 72E:\github projects\goit-js-hw-10\node_modules\msgpackr-extract\README.md133128521835285460 0
 94E:\github projects\goit-js-hw-10\node_modules\@parcel\packager-js\src\ScopeHoistingPackager.js133128521855789377 0
@@ -91,7 +91,7 @@
 75E:\github projects\goit-js-hw-10\node_modules\terser\node_modules\commander133128521833192286 1
 53E:\github projects\goit-js-hw-10\node_modules\@parcel133128521821719044 1
 83E:\github projects\goit-js-hw-10\node_modules\@parcel\transformer-json\package.json133128521841050310 0
-45E:\github projects\goit-js-hw-10\src\index.js133128610784964803 0
+45E:\github projects\goit-js-hw-10\src\index.js133129177722517155 0
 89E:\github projects\goit-js-hw-10\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133128521842948710 0
 91E:\github projects\goit-js-hw-10\node_modules\@swc\helpers\src\_class_private_field_set.mjs133128521858577238 0
 92E:\github projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\css-revert-value.js133128521861613659 0
@@ -108,7 +108,7 @@
 66E:\github projects\goit-js-hw-10\node_modules\json5\lib\require.js133128521836238569 0
 64E:\github projects\goit-js-hw-10\node_modules\yaml\dist\index.js133128521836532736 0
 100E:\github projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\mdn-text-decoration-line.js133128521866454713 0
-51E:\github projects\goit-js-hw-10\src\css\styles.css133128519427675010 0
+51E:\github projects\goit-js-hw-10\src\css\styles.css133129153473577422 0
 79E:\github projects\goit-js-hw-10\node_modules\@parcel\graph\lib\ContentGraph.js133128521841846213 0
 100E:\github projects\goit-js-hw-10\node_modules\@swc\helpers\lib\_class_check_private_static_access.js133128521841433330 0
 63E:\github projects\goit-js-hw-10\node_modules\@parcel\codeframe133128521849040282 1
@@ -3871,7 +3871,7 @@
 124E:\github projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\a133128521850901973 1
 124E:\github projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\b133128521851281950 1
 126E:\github projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub133128521857877032 1
-60E:\github projects\goit-js-hw-10\dist\index.77a9bc14.css.map133128618048990939 0
+60E:\github projects\goit-js-hw-10\dist\index.77a9bc14.css.map133129177724955698 0
 128E:\github projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\a133128521851591140 1
 128E:\github projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\b133128521852069851 1
 135E:\github projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\index.js133128521852442597 0
@@ -3989,7 +3989,7 @@
 101E:\github projects\goit-js-hw-10\node_modules\@parcel\core\test\fixtures\invalid-engines\package.json133128521874102398 0
 103E:\github projects\goit-js-hw-10\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json133128521874093218 0
 108E:\github projects\goit-js-hw-10\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133128521874072126 0
-59E:\github projects\goit-js-hw-10\dist\index.975ef6c8.js.map133128618049060738 0
+59E:\github projects\goit-js-hw-10\dist\index.975ef6c8.js.map133129177725025784 0
 100E:\github projects\goit-js-hw-10\node_modules\@parcel\core\test\fixtures\custom-targets\package.json133128521874083218 0
 108E:\github projects\goit-js-hw-10\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133128521874059807 0
 109E:\github projects\goit-js-hw-10\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext\package.json133128521874052289 0
@@ -4163,6 +4163,6 @@
 59E:\github projects\goit-js-hw-10\node_modules\.bin\svgo.ps1133128522009471084 0
 57E:\github projects\goit-js-hw-10\node_modules\.bin\terser133128522009471084 0
 61E:\github projects\goit-js-hw-10\node_modules\.bin\terser.cmd133128522009471084 0
-56E:\github projects\goit-js-hw-10\dist\index.77a9bc14.css133128618048931087 0
-55E:\github projects\goit-js-hw-10\dist\index.975ef6c8.js133128618048961022 0
-48E:\github projects\goit-js-hw-10\dist\index.html133128557311061719 0
+56E:\github projects\goit-js-hw-10\dist\index.77a9bc14.css133129177724916086 0
+55E:\github projects\goit-js-hw-10\dist\index.975ef6c8.js133129177724916086 0
+48E:\github projects\goit-js-hw-10\dist\index.html133129129024967334 0
