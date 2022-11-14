@@ -20,13 +20,17 @@ const card = document.querySelector('.country-info');
 function inputHandler(event) {
     const name = event.target.value.trim();
     if (!name) {
-        list.innerHTML = '';
         card.innerHTML = '';
+        list.innerHTML = '';
         return;
     }
     fetchCountries(name).then(countries => {
         interfaceOfResult(countries);
-    }).catch((error) => Notify.failure("Oops, there is no country with that name"));
+    }).catch((error) => {
+        card.innerHTML = '';
+        list.innerHTML = '';
+        return Notify.failure("Oops, there is no country with that name");
+    });
     
 }
 
@@ -54,7 +58,7 @@ function renderListForFirstCase(countries) {
 function renderListForSecondCase(countries) {
     list.innerHTML = '';
     const markup = countries.map(country => {
-        return `<img src=${country.flags.svg} width=100 height=80></img>
+        return `<img src=${country.flags.svg} width=120 height=100></img>
         <p>${country.name.official}</p>
         <p>Capital: ${country.capital}</p>
         <p>Population: ${country.population}</p>

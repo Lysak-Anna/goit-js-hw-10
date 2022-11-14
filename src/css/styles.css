@@ -32,3 +32,7 @@ p {
   text-transform: uppercase;
   font-weight: 700;
 }
+
+img {
+  margin-left: 20px;
+}
