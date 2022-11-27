@@ -1,4 +1,11 @@
-4202
+4205
+81E:\github projects\goit-js-hw-10\node_modules\terser\lib\compress\tighten-body.js133128521852902090 0
+79E:\github projects\goit-js-hw-10\node_modules\@parcel\core\lib\public\Config.js133128521867172572 0
+76E:\github projects\goit-js-hw-10\node_modules\@babel\code-frame\lib\index.js133128521829596951 0
+77E:\github projects\goit-js-hw-10\node_modules\caniuse-lite\data\regions\TZ.js133128521870356060 0
+135E:\github projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\package.json133128521858375694 0
+40E:\github projects\goit-js-hw-10\.github133140508207438274 1
+79E:\github projects\goit-js-hw-10\node_modules\type-fest\source\stringified.d.ts133128521849319785 0
 84E:\github projects\goit-js-hw-10\node_modules\@jridgewell\set-array\src\set-array.ts133128521836403089 0
 70E:\github projects\goit-js-hw-10\node_modules\css-tree\dist\csstree.js133128521849199858 0
 97E:\github projects\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133128521850079460 0
@@ -48,11 +55,6 @@
 36E:\github projects\goit-js-hw-10\src133128526477196110 1
 94E:\github projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\keyboardevent-code.js133128521865699903 0
 100E:\github projects\goit-js-hw-10\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133128521849439515 0
-68E:\github projects\goit-js-hw-10\node_modules\@parcel\plugin\LICENSE133128521836992811 0
-88E:\github projects\goit-js-hw-10\node_modules\@parcel\core\test\fixtures\invalid-engines133128521874102398 1
-58E:\github projects\goit-js-hw-10\node_modules\svgo\plugins133128521856357809 1
-75E:\github projects\goit-js-hw-10\node_modules\mdn-data\css\definitions.json133128521838033147 0
-40E:\github projects\goit-js-hw-10\src\css133128519654308837 1
 90E:\github projects\goit-js-hw-10\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133128521845476783 0
 58E:\github projects\goit-js-hw-10\node_modules\caniuse-lite133128521871396527 1
 78E:\github projects\goit-js-hw-10\node_modules\react-error-overlay\package.json133128521835651975 0
@@ -68,6 +70,11 @@
 74E:\github projects\goit-js-hw-10\node_modules\svgo\plugins\inlineStyles.js133128521846089106 0
 42E:\github projects\goit-js-hw-10\README.md133128518857173757 0
 98E:\github projects\goit-js-hw-10\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-gnu.node133128521976386316 0
+68E:\github projects\goit-js-hw-10\node_modules\@parcel\plugin\LICENSE133128521836992811 0
+88E:\github projects\goit-js-hw-10\node_modules\@parcel\core\test\fixtures\invalid-engines133128521874102398 1
+58E:\github projects\goit-js-hw-10\node_modules\svgo\plugins133128521856357809 1
+75E:\github projects\goit-js-hw-10\node_modules\mdn-data\css\definitions.json133128521838033147 0
+40E:\github projects\goit-js-hw-10\src\css133128519654308837 1
 65E:\github projects\goit-js-hw-10\node_modules\type-fest\base.d.ts133128521833748228 0
 84E:\github projects\goit-js-hw-10\node_modules\@parcel\runtime-service-worker\LICENSE133128521847317786 0
 66E:\github projects\goit-js-hw-10\node_modules\escape-string-regexp133128521830141919 1
@@ -222,13 +229,13 @@
 64E:\github projects\goit-js-hw-10\node_modules\chrome-trace-event133128521834206011 1
 55E:\github projects\goit-js-hw-10\node_modules\lmdb\dict133128521859131205 1
 51E:\github projects\goit-js-hw-10\node_modules\clone133128521832913033 1
+127E:\github projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\bar.js133128521841413395 0
+63E:\github projects\goit-js-hw-10\node_modules\yaml\package.json133128521852582952 0
 67E:\github projects\goit-js-hw-10\node_modules\import-fresh\index.js133128521828272242 0
 77E:\github projects\goit-js-hw-10\node_modules\css-tree\lib\syntax\node\CDO.js133128521838875001 0
 67E:\github projects\goit-js-hw-10\node_modules\@parcel\fs\index.d.ts133128521863481649 0
 59E:\github projects\goit-js-hw-10\node_modules\tslib\modules133128521833550900 1
 102E:\github projects\goit-js-hw-10\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133128521847474547 0
-127E:\github projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\bar.js133128521841413395 0
-63E:\github projects\goit-js-hw-10\node_modules\yaml\package.json133128521852582952 0
 77E:\github projects\goit-js-hw-10\node_modules\caniuse-lite\data\regions\BN.js133128521857056879 0
 59E:\github projects\goit-js-hw-10\node_modules\color-convert133128521833977646 1
 70E:\github projects\goit-js-hw-10\node_modules\@parcel\packager-css\src133128521855133111 1
@@ -1002,12 +1009,6 @@
 81E:\github projects\goit-js-hw-10\node_modules\@parcel\reporter-dev-server\LICENSE133128521854798760 0
 60E:\github projects\goit-js-hw-10\dist\index.45f5eae1.css.map133140506894580164 0
 70E:\github projects\goit-js-hw-10\node_modules\term-size\vendor\windows133128521832813304 1
-81E:\github projects\goit-js-hw-10\node_modules\terser\lib\compress\tighten-body.js133128521852902090 0
-79E:\github projects\goit-js-hw-10\node_modules\@parcel\core\lib\public\Config.js133128521867172572 0
-76E:\github projects\goit-js-hw-10\node_modules\@babel\code-frame\lib\index.js133128521829596951 0
-77E:\github projects\goit-js-hw-10\node_modules\caniuse-lite\data\regions\TZ.js133128521870356060 0
-135E:\github projects\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\package.json133128521858375694 0
-79E:\github projects\goit-js-hw-10\node_modules\type-fest\source\stringified.d.ts133128521849319785 0
 89E:\github projects\goit-js-hw-10\node_modules\type-fest\source\union-to-intersection.d.ts133128521849809445 0
 84E:\github projects\goit-js-hw-10\node_modules\@parcel\transformer-image\package.json133128521847496331 0
 73E:\github projects\goit-js-hw-10\node_modules\@parcel\events\package.json133128521858236070 0
@@ -1125,8 +1126,8 @@
 92E:\github projects\goit-js-hw-10\node_modules\@swc\helpers\lib\_class_private_method_init.js133128521845629808 0
 70E:\github projects\goit-js-hw-10\node_modules\terser\lib\propmangle.js133128521851910514 0
 63E:\github projects\goit-js-hw-10\node_modules\parcel\src\cli.js133128521858036611 0
-75E:\github projects\goit-js-hw-10\node_modules\svgo\plugins\removeViewBox.js133128521855458988 0
 68E:\github projects\goit-js-hw-10\node_modules\resolve-from\readme.md133128521830826610 0
+75E:\github projects\goit-js-hw-10\node_modules\svgo\plugins\removeViewBox.js133128521855458988 0
 80E:\github projects\goit-js-hw-10\node_modules\@parcel\events\src\ValueEmitter.js133128521858196187 0
 96E:\github projects\goit-js-hw-10\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.js133128521836972756 0
 87E:\github projects\goit-js-hw-10\node_modules\lmdb\node_modules\node-addon-api\index.js133128521841433330 0
@@ -1754,8 +1755,8 @@
 80E:\github projects\goit-js-hw-10\node_modules\@parcel\core\src\CommittedAsset.js133128521867162564 0
 59E:\github projects\goit-js-hw-10\node_modules\lmdb\level.js133128521858747574 0
 71E:\github projects\goit-js-hw-10\node_modules\@parcel\markdown-ansi\src133128521835859840 1
-80E:\github projects\goit-js-hw-10\node_modules\msgpackr\dist\index-no-eval.js.map133128521849339494 0
 103E:\github projects\goit-js-hw-10\node_modules\@babel\highlight\node_modules\supports-color\package.json133128521827310879 0
+80E:\github projects\goit-js-hw-10\node_modules\msgpackr\dist\index-no-eval.js.map133128521849339494 0
 72E:\github projects\goit-js-hw-10\node_modules\msgpackr\dist\index.min.js133128521842322140 0
 97E:\github projects\goit-js-hw-10\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133128521861583613 0
 61E:\github projects\goit-js-hw-10\node_modules\is-json\LICENSE133128521830389643 0
@@ -2219,6 +2220,7 @@
 76E:\github projects\goit-js-hw-10\node_modules\domutils\lib\querying.d.ts.map133128521839998785 0
 90E:\github projects\goit-js-hw-10\node_modules\@parcel\utils\test\input\sourcemap\inline.js133128521858505351 0
 86E:\github projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\use-strict.js133128521870599980 0
+61E:\github projects\goit-js-hw-10\.github\workflows\deploy.yml133135373378554885 0
 71E:\github projects\goit-js-hw-10\node_modules\domutils\lib\stringify.js133128521835800350 0
 77E:\github projects\goit-js-hw-10\node_modules\domutils\lib\traversal.d.ts.map133128521841473222 0
 75E:\github projects\goit-js-hw-10\node_modules\@parcel\watcher\src\Signal.hh133128521845456475 0
@@ -4201,3 +4203,4 @@
 59E:\github projects\goit-js-hw-10\dist\index.82115f18.js.map133140506894620054 0
 55E:\github projects\goit-js-hw-10\dist\index.975ef6c8.js133140500869933945 0
 48E:\github projects\goit-js-hw-10\dist\index.html133140506894527591 0
+50E:\github projects\goit-js-hw-10\.github\workflows133140508207448254 1
