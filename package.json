@@ -2,10 +2,10 @@
   "name": "goit-js-hw-10",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "homepage": "https://lysak-Anna.github.io/goit-js-hw-10/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "build": "parcel build src/index.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Lysak-Anna/goit-js-hw-10/issues"
   },
-  "homepage": "https://github.com/Lysak-Anna/goit-js-hw-10#readme",
+  
   "devDependencies": {
     "parcel": "^2.8.0"
   },

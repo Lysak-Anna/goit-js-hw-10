@@ -1,12 +1,6 @@
 
 
-// const searchParams = new URLSearchParams({
-//     name.official,
-//     capital,
-//     population,
-//     flags.svg,
-//     languages,
-// });
+
 
 
 export function fetchCountries(name) {

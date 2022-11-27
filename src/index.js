@@ -8,13 +8,7 @@ const input = document.querySelector('#search-box');
 input.addEventListener('input', debounce(inputHandler, DEBOUNCE_DELAY));
 const list = document.querySelector('.country-list');
 const card = document.querySelector('.country-info');
-// const searchParams = new URLSearchParams({
-//     name.official,
-//     capital,
-//     population,
-//     flags.svg,
-//     languages,
-// });
+
 
 
 function inputHandler(event) {
@@ -62,7 +56,8 @@ function renderListForSecondCase(countries) {
         <p>${country.name.official}</p>
         <p>Capital: ${country.capital}</p>
         <p>Population: ${country.population}</p>
-        <p>Languages: ${country.languages}</p>`
+        <p>Languages: ${Object.values(country.languages)}</p>`
     }).join('');
     card.innerHTML = markup;
+    
 }
